@@ -6,6 +6,13 @@
     box-sizing: border-box;
 }
 
+input,
+button,
+select,
+textarea {
+    font-family: inherit;
+}
+
 :root {
     --primary-color: #007c8f;
     --primary-gradient: linear-gradient(to bottom, #0099ab, #007c8f);
